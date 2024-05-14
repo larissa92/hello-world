@@ -4,11 +4,11 @@
 
 ### Campus São Lourenço do Oeste 
 
-1. Módulo : Desenvolvimento Front End.
+1. Módulo : Desenvolvimento Front End : Linguagem HTML, CSS, JAVASCRIPT E FRAMEWORK BOOTSTRAP
 
-2. Módulo  : Banco de Dados 
+2. Módulo  : Banco de Dados : SQL
 
-3. Módulo :  Desenvovimento Back End.
+3. Módulo :  Desenvovimento Back End. NODE JS
 
 
 elaboração de um portal de noticias utilizando framework, designer e banco de dados .
